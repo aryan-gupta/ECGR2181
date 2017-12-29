@@ -1,0 +1,5 @@
+Vivado Simulator 2017.2
+Time resolution is 1 ps
+Failure: end of simulation
+Time: 180 ns  Iteration: 0  Process: /top_tb/sw_proc  File: Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_5/computer_assignment_5.srcs/sim_1/imports/Project 2/top_tb-Lab5.vhd
+$finish called at time : 180 ns : File "Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_5/computer_assignment_5.srcs/sim_1/imports/Project 2/top_tb-Lab5.vhd" Line 130

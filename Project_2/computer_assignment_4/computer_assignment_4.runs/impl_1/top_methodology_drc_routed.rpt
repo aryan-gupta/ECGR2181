@@ -1,0 +1,146 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Fri Dec  1 12:10:56 2017
+| Host         : DESKTOP-GPFIDL6 running 64-bit major release  (build 9200)
+| Command      : report_methodology -file top_methodology_drc_routed.rpt -pb top_methodology_drc_routed.pb -rpx top_methodology_drc_routed.rpx
+| Design       : top
+| Device       : xc7a35tcpg236-1
+| Speed File   : -1
+| Design State : Routed
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 22
++-----------+----------+-------------------------------+------------+
+| Rule      | Severity | Description                   | Violations |
++-----------+----------+-------------------------------+------------+
+| TIMING-18 | Warning  | Missing input or output delay | 13         |
+| TIMING-20 | Warning  | Non-clocked latch             | 9          |
++-----------+----------+-------------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+TIMING-18#1 Warning
+Missing input or output delay  
+An input delay is missing on btnL relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#2 Warning
+Missing input or output delay  
+An input delay is missing on btnR relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#3 Warning
+Missing input or output delay  
+An output delay is missing on an[0] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#4 Warning
+Missing input or output delay  
+An output delay is missing on an[1] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#5 Warning
+Missing input or output delay  
+An output delay is missing on an[2] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#6 Warning
+Missing input or output delay  
+An output delay is missing on an[3] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#7 Warning
+Missing input or output delay  
+An output delay is missing on seg[0] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#8 Warning
+Missing input or output delay  
+An output delay is missing on seg[1] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#9 Warning
+Missing input or output delay  
+An output delay is missing on seg[2] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#10 Warning
+Missing input or output delay  
+An output delay is missing on seg[3] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#11 Warning
+Missing input or output delay  
+An output delay is missing on seg[4] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#12 Warning
+Missing input or output delay  
+An output delay is missing on seg[5] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-18#13 Warning
+Missing input or output delay  
+An output delay is missing on seg[6] relative to clock(s) sys_clk_pin
+Related violations: <none>
+
+TIMING-20#1 Warning
+Non-clocked latch  
+The latch accum_reg[0] cannot be properly analyzed as its control pin accum_reg[0]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#2 Warning
+Non-clocked latch  
+The latch accum_reg[1] cannot be properly analyzed as its control pin accum_reg[1]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#3 Warning
+Non-clocked latch  
+The latch accum_reg[2] cannot be properly analyzed as its control pin accum_reg[2]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#4 Warning
+Non-clocked latch  
+The latch accum_reg[3] cannot be properly analyzed as its control pin accum_reg[3]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#5 Warning
+Non-clocked latch  
+The latch accum_reg[4] cannot be properly analyzed as its control pin accum_reg[4]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#6 Warning
+Non-clocked latch  
+The latch accum_reg[5] cannot be properly analyzed as its control pin accum_reg[5]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#7 Warning
+Non-clocked latch  
+The latch accum_reg[6] cannot be properly analyzed as its control pin accum_reg[6]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#8 Warning
+Non-clocked latch  
+The latch accum_reg[7] cannot be properly analyzed as its control pin accum_reg[7]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#9 Warning
+Non-clocked latch  
+The latch g_in_reg[2] cannot be properly analyzed as its control pin g_in_reg[2]/G is not reached by a timing clock
+Related violations: <none>
+
+

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_1/computer_assignment_1/computer_assignment_1.srcs/sources_1/imports/Project 1/task1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity task1
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_1/computer_assignment_1/computer_assignment_1.srcs/sim_1/imports/Project 1/task1_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity task1_tb

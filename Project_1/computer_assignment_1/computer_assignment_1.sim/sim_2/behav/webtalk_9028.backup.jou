@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Mon Oct 16 11:32:13 2017
+# Process ID: 9028
+# Current directory: Z:/Users/Nayra/Documents/ECGR2181/Project_1/computer_assignment_1/computer_assignment_1.sim/sim_2/behav
+# Command line: wbtcv.exe -mode batch -source Z:/Users/Nayra/Documents/ECGR2181/Project_1/computer_assignment_1/computer_assignment_1.sim/sim_2/behav/xsim.dir/task2_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: Z:/Users/Nayra/Documents/ECGR2181/Project_1/computer_assignment_1/computer_assignment_1.sim/sim_2/behav/webtalk.log
+# Journal file: Z:/Users/Nayra/Documents/ECGR2181/Project_1/computer_assignment_1/computer_assignment_1.sim/sim_2/behav\webtalk.jou
+#-----------------------------------------------------------
+source Z:/Users/Nayra/Documents/ECGR2181/Project_1/computer_assignment_1/computer_assignment_1.sim/sim_2/behav/xsim.dir/task2_tb_behav/webtalk/xsim_webtalk.tcl -notrace

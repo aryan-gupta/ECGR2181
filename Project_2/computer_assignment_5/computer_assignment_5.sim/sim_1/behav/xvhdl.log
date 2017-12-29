@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_5/computer_assignment_5.srcs/sources_1/imports/Nayra/Downloads/Other/Project 2/debounce.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity debounce
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_5/computer_assignment_5.srcs/sources_1/new/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_5/computer_assignment_5.srcs/sim_1/imports/Project 2/top_tb-Lab5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top_tb

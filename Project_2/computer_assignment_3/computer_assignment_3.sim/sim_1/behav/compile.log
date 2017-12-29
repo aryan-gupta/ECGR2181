@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_3/computer_assignment_3.srcs/sources_1/imports/Nayra/Documents/ECGR2181/Project_1/computer_assignment_2/computer_assignment_2.srcs/sources_1/imports/Project 1/encoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity encoder
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_3/computer_assignment_3.srcs/sources_1/imports/Nayra/Downloads/Other/Project 2/ssd_muxer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ssd_muxer
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_3/computer_assignment_3.srcs/sources_1/new/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Users/Nayra/Documents/ECGR2181/Project_2/computer_assignment_3/computer_assignment_3.srcs/sim_1/imports/Project 2/top_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top_tb
