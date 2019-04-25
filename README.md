@@ -1,5 +1,5 @@
 # ECGR2181
-Code for my Logics class
+Code for my Logics class. I am hearing alot of people reviewing my code. Please adhere to the Liability and Honor Code below
 
 ## Liability and Honor Code ##
 I am NOT responsible for your grade or any Honor Code Violation. I only
